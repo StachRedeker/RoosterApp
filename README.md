@@ -10,7 +10,7 @@ De app kan geïnstalleerd worden op toestellen met het Android-besturingssysteem
 
 ## Documentatie
 
-De RoosterApp was te downloaden via een [subdomein](https://rooster.stachredeker.nl) van Weblog van Stach. Op de webpagina, nu ook te bekijken via `RoosterApp/Website/`, werd informatie verstrekt over de app. Op de webpagina stonden achtereenvolgens deze onderdelen:
+De RoosterApp was te downloaden via een [subdomein](https://vault.stachredeker.nl/rooster) van Weblog van Stach. Op de webpagina, nu ook te bekijken via `RoosterApp/Website/`, werd informatie verstrekt over de app. Op de webpagina stonden achtereenvolgens deze onderdelen:
 
 * Motivatie voor het bouwen van een app.
 * Unieke punten van de RoosterApp.
